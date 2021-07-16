@@ -6,4 +6,4 @@ Try out the service : [ChatterPro](https://chatterpro.netlify.app/ "ChatterPro- 
 
 ![](images/img1.jpg)
 
-![](img2.jpg)
+![](images/img2.jpg)
